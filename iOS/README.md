@@ -13,3 +13,5 @@ These are useful tools to as quickly as possible implement parts of an iOS proje
 Settings.swift - This file incorporates use of iOS libraries NSCoding and NSObject to store data locally to the users device in an encrypted, easily expandable method. See example data structures for additional use (Bat.swift, Player.swift). Also provides additional data processing examples.
 
 Bat.swift - This file is an example of what is necessary to organize and build a simple data structure that can be stored in the method prescribed in Settings.swift.
+
+Player.swift - An additional data structure example like bat.swift
