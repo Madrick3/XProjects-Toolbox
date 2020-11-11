@@ -1,0 +1,9 @@
+# XProjects-Toolbox - Python
+These are some tools built during prior XProjects that can be repurposed.
+
+## Contents
+### Multi-Thread management
+InterfacingScript.py - Script responsible for managing a WebsocketServer - Originally intended for use with the MOI Rig XProject
+
+### Networking
+WebsocketServer.py - Interacts with a web-socket over WIFI such as the iOS:websocket.swift file to share data wirelessly between different socket enabled devices.
